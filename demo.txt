@@ -1,0 +1,5 @@
+hello this the demo.txt file
+hello bangladesh now hello now in vi
+hello austria now vienna now 
+hello Italy and vim file edited
+hello now after chages
