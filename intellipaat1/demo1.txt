@@ -1,1 +1,1 @@
-hello now i am in vi demo1.txt file
+hello now i am in vi demo1.txt file and after git commit
